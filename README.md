@@ -10,6 +10,12 @@
 
 ---
 
+## 🌐 Platform Access
+
+👉 https://lalivortex.netlify.app/
+
+---
+
 🎥 **Project Demonstration:**  
 
 👉 https://www.linkedin.com/posts/lalithkrish-data_reactjs-typescript-tailwindcss-ugcPost-7479110573855563776-9I7W/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOj_WYBncOFydeAPBILXlA2BQoiO9StjuA
