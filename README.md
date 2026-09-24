@@ -258,18 +258,6 @@ AI & Data Science Engineer
 
 🌐 Repository: https://github.com/Lalithkrish06/QuizMaster
 
-
-**MediCare** is a full-stack Java web application that allows users to:
-
-* 🔐 Register and authenticate securely
-* 📩 Verify accounts using OTP authentication
-* 💊 Search medicines based on selected symptoms
-* 📋 View dosage information, side effects, and precautions
-* 🗂️ Maintain user-specific search history
-* 🔒 Manage secure sessions and logout
-* 📱 Use the application through a responsive web interface
-
-
 ---
 
 ### ⭐ If you found this project useful, consider giving it a Star.
